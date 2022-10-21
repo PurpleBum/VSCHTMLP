@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+#wrapper {
+ width: 80%;
+ min-width: 900px;
+ max-width: 1280px;
+}
+nav {
+    font-size: 1.5em;
+}
+p {
+    color: black;
+}
+h1 {
+    font-size: 5em;
+    text-align: center;
+    background-color: black;
+
+}
+h2 {
+    font: 1.8em;
+    text-align: center;
+    background-color: black;
+}
+footer {
+    font-size: 1.2em;
+    text-align: center;
+    background-color: black;
+}
+.name {
+    color: beige;
+}
